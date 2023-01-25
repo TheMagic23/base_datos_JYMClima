@@ -12,19 +12,12 @@
     ],
     "Producto":[
         {
-            "nombre":"",
-            "foto":"",
-            "precio":0,
-            "stock":"",
-            "id":1
+           
         }
     ],
     "PendientePago":[
         {
-            "empresa":"",
-            "maquina":"",
-            "precioPendiente":0,
-            "id":1
+           
         }
     ]
 }
