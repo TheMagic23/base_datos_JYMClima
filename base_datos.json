@@ -1,13 +1,7 @@
 {
     "Deudor":[
         {
-            "empresa":"",
-            "maquina":"",
-            "fecha":"",
-            "description1":"",
-            "dependencies2":"",
-            "precioDeudor": 0,
-            "id":1
+
         }
     ],
     "Producto":[
